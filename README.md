@@ -1,2 +1,2 @@
-# meu-primeiro-reposit-rio
+# meu-primeiro-repositório
 Primeiro repositório aula Alura
